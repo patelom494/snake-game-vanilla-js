@@ -7,8 +7,7 @@ This project is created as part of my portfolio to apply for MERN Stack internsh
 
 🚀 Live Demo
 
-(Optional but highly recommended)
-🔗 Live URL: Add your GitHub Pages link here
+🔗 Live URL: https://patelom494.github.io/snake-game-vanilla-js/
 
 📌 Features
 
